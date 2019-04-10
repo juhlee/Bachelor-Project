@@ -32,6 +32,7 @@
 
 <h3> Image augmentation </h3>
 <p> In order to increase sample size, different modifications were done to image: </p>
+<pre>
 <p> 1. Flip (vertical, horizontal) </p>
 <p> 2. Gaussian Noise </p>
 <p> 3. Contrast </p> 
@@ -40,6 +41,7 @@
 <p> 6. Gaussian Blur </p> 
 <p> 7. Rotation </p>
 <p> 8. Shearing </p>
+</pre>
 
  
   
