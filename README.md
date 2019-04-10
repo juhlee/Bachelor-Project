@@ -35,7 +35,7 @@
 <p> 
   <pre> 1. Flip (vertical, horizontal) <br />
   <pre> 2. Gaussian Noise
-<p>
+</p>
 
  
   
