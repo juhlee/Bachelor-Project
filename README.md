@@ -32,6 +32,7 @@
 
 <h3> Image augmentation </h3>
 <p> In order to increase sample size, different modifications were done to image: </p>
+<p> <pre> 1. Flip (vertical, horizontal) <p>
 
  
   
