@@ -20,10 +20,19 @@
 <p> [Schematic Image of Supraspinatus tendons MRI] </p>
 <p> 
   Particularily, I will be examining MRI images of human shoulder. Moreover, from the MRI image, I will only 
-  observe the Supraspinatus tendons region. It is one of the group of shoulder muscles/tendons that act to 
-  stabilize the shoulder. If the patient suffers from supraspinatus tendons tearing, a white spot will appear
-  in the MRI image.
+  observe the Supraspinatus tendons region. It is one of the group of shoulder muscles/tendons - altogether
+  referrring to "Rotator Cuff" - that act to stabilize the shoulder. If the patient suffers from supraspinatus 
+  tendons tearing, a white spot will appear in the MRI image.
 </p>
+
+<h2> Deep Learning Implementation </h2>
+
+<h3> Samples information </h3>
+<p> MRI images were obtained from archive in a hospital: 2643 patients, 16 MRI images of shoulder per patient. </p>
+
+<h3> Image augmentation </h3>
+<p> In order to increase sample size, different modifications were done to image: </p>
+
  
   
 
