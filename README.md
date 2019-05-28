@@ -1,5 +1,5 @@
 # GUGC Bachelor Project:
-<h2> “deep learning for disease symptom  segmentation in medical images” </h2>
+<h2> "EXPLORING WEB-BASED MACHINE LEARNING FOR ROTATOR CUFF TEAR DIAGNOSIS IN MAGNETIC RESONANCE IMAGES </h2>
 <h3> 
   <b> Student: </b> Ju Hyung Lee <br/>
   <b> Promoter: </b> Ph.D. Mijung Kim <br/>
